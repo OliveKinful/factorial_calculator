@@ -1,0 +1,1 @@
+This a calculator used to calculate the factorial of a number
